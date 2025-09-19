@@ -8,6 +8,7 @@ f = 12
 e = "szöveg"
 g = 60
 h = 72
+i = 84
 print("a+b", a+b)
 print("a+c", a+c)
 print("b+c", b+c)
