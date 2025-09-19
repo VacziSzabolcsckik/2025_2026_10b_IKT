@@ -3,6 +3,7 @@ nev = "Kis Pista"
 a = 12
 b = 24
 c = 36
+d = 48
 print("a+b", a+b)
 print("a+c", a+c)
 print("b+c", b+c)
