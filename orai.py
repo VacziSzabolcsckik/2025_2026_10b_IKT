@@ -4,6 +4,7 @@ a = 13
 b = 24
 c = 36
 d = 48
+e = "szöveg"
 print("a+b", a+b)
 print("a+c", a+c)
 print("b+c", b+c)
