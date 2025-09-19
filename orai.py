@@ -1,6 +1,6 @@
 print ("órai munka")
-nev = "Kis Pista"
-a = 12
+nev = "Nagy Rozália"
+a = 13
 b = 24
 c = 36
 d = 48
